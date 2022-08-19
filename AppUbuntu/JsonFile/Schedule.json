@@ -1,0 +1,106 @@
+{
+  "164 241 197 222": {
+    "name": "Tr\u1ea7n Quang H\u00e0",
+    "mail": "Ha_tq191809_sis_hust_edu_vn",
+    "Monday": {},
+    "Tuesday": {},
+    "Wednesday": {},
+    "Thursday": {},
+    "Friday": {},
+    "Saturday": {},
+    "Sunday": {}
+  },
+  "166 211 142 229": {
+    "name": "\u0110\u1eb7ng Tr\u1ea7n B\u00e1ch",
+    "mail": "Bach_dt190103_sis_hust_edu_vn",
+    "Monday": {
+      "section1": {
+        "period": "1-3",
+        "room": "306",
+        "subject": "\u0110\u1ed3 h\u1ecda 2"
+      },
+      "section2": {
+        "room": "307",
+        "subject": "Nguy\u00ean l\u00fd m\u00e1y",
+        "period": "4-6"
+      },
+      "section3": {
+        "room": "306",
+        "subject": "V\u1eadt li\u1ec7u h\u1ecdc",
+        "period": "7-9"
+      },
+      "section4": {
+        "subject": "C\u01a1 h\u1ecdc th\u1ee7y kh\u00ed",
+        "period": "10-12",
+        "room": "307"
+      }
+    },
+    "Tuesday": {
+      "section1": {
+        "room": "307",
+        "period": "1-3",
+        "subject": "C\u01a1 h\u1ecdc k\u1ef9 thu\u1eadt"
+      },
+      "section2": {
+        "room": "307",
+        "period": "4-6",
+        "subject": "Ch\u1ebf t\u1ea1o m\u00e1y"
+      },
+      "section3": {
+        "subject": "K\u1ef9 thu\u1eadt nhi\u1ec7t",
+        "period": "7-9",
+        "room": "307"
+      },
+      "section4": {
+        "period": "10-12",
+        "subject": "Ch\u1ebf t\u1ea1o khu\u00f4n",
+        "room": "307"
+      }
+    },
+    "Wednesday": {
+      "section1": {
+        "period": "0-6",
+        "subject": "\u0110\u1ed3 h\u1ecda 1",
+        "room": "302"
+      }
+    },
+    "Thursday": {
+      "section1": {
+        "room": "307",
+        "period": "1-4",
+        "subject": "K\u1ef9 thu\u1eadt l\u1eadp tr\u00ecnh"
+      },
+      "section2": {
+        "room": "307",
+        "period": "5-8",
+        "subject": "Ch\u1ebf t\u1ea1o m\u00e1y"
+      }
+    },
+    "Friday": {
+      "section1": {
+        "room": "307",
+        "period": "1-9",
+        "subject": "Nguy\u00ean l\u00fd m\u00e1y"
+      }
+    },
+    "Saturday": {
+      "section1": {
+        "period": "0-12",
+        "subject": "B\u00f3ng \u0111\u00e1 1",
+        "room": "306"
+      }
+    },
+    "Sunday": {
+      "section1": {
+        "room": "307",
+        "subject": "Ch\u1ebf t\u1ea1o khu\u00f4n",
+        "period": "10-12"
+      },
+      "section2": {
+        "period": "15-15",
+        "room": "307",
+        "subject": "Ch\u1ebf t\u1ea1o m\u00e1y"
+      }
+    }
+  }
+}
